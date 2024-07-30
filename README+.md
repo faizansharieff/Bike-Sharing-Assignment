@@ -33,24 +33,24 @@
 
 
 ## Technologies Used
-- 1. Programming Language and Environment
+-  Programming Language and Environment
 Python: Used for data analysis, model building, and visualization.
 Jupyter Notebook: For interactive coding and documentation.
-- 2. Data Manipulation and Analysis Libraries
+-  Data Manipulation and Analysis Libraries
 pandas: For data manipulation and analysis, including data cleaning, merging, and handling.
 numpy: For numerical computations and array operations.
-- 3. Data Visualization Libraries
+-  Data Visualization Libraries
 matplotlib: For creating static, interactive, and animated visualizations.
 seaborn: For statistical data visualization, including regression plots.
-- 4. Statistical Analysis and Modeling Libraries
+-  Statistical Analysis and Modeling Libraries
 scikit-learn: For implementing the Multiple Linear Regression model, as well as other machine learning techniques like data splitting, model evaluation, and metrics.
 statsmodels: For detailed statistical analysis and regression model summary.
-- 5. Additional Tools and Libraries
+-  Additional Tools and Libraries
 SciPy: For additional scientific and technical computing tasks.
 joblib or pickle: For saving and loading machine learning models.
-- 6. Integrated Development Environments (IDEs) and Code Editors
+-  Integrated Development Environments (IDEs) and Code Editors
 VS Code: If used for coding and script editing.
-- 7. Version Control and Collaboration
+-  Version Control and Collaboration
 Git/GitHub: For version control and collaboration.
 
 
