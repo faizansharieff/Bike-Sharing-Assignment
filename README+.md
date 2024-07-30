@@ -27,6 +27,7 @@
 - The adjusted R-squared value for the training dataset is 0.834, which takes into account the number of predictors in the model, providing a more reliable measure of the model's goodness of fit.
 
 - The adjusted R-squared value for the testing dataset is 0.790, reflecting the adjusted goodness of fit on unseen data. The demand of bikes is influenced by various factors such as year, holiday, temperature, windspeed, September month, presence of light snow/rain, misty conditions, and the seasons of spring, summer, and winter.
+- Based on the equation of the best fit line, it can be concluded that the number of bike-sharing counts is positively influenced by factors such as being in a more recent year, higher temperatures, and specific seasons like spring and winter, while negatively impacted by factors such as holidays, higher wind speeds, certain weekdays, and adverse weather conditions like light snow and mist. This indicates that people tend to use bike-sharing services more frequently in favorable weather and seasonal conditions, as well as during non-holiday periods.
 
 - These metrics and the specified independent variables provide insights into the performance of the regression model in predicting bike demand and highlight the key factors affecting it.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
